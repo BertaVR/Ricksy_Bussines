@@ -12,6 +12,7 @@ public class CreditCard {
         this.number = number;
 
 
+
     }
     public String getOwner(){
         return this.owner;

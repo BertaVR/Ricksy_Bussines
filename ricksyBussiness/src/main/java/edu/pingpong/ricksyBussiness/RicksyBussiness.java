@@ -1,6 +1,6 @@
 package edu.pingpong.ricksyBussiness;
 
-public class App 
+public class ricksyBussiness 
 {
 
     public static void main( String[] args ){

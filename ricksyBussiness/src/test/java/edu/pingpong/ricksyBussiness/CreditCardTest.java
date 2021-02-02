@@ -9,6 +9,13 @@ import static org.junit.Assert.assertNotNull;
 import org.junit.Test;
 
 public class CreditCardTest {
+
+    private CreditCard card = null;
+    @Before
+    public void setup_card() {
+        this.card = new CreditCard("Rick", "123456789");
+        assertNotNull(card);
+    }
     @Test
     public void constructor_test() {
         CreditCard card = new CreditCard("Rick", "123456789");
