@@ -8,7 +8,7 @@ import org.junit.Test;
 /**
  * Unit test for simple ricksy.
  */
-public class ricksyBussinessTest 
+public class RicksyBussinessTest 
 {
     /**
      * Rigorous Test :-)
